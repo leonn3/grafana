@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T18:10:24.146Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="uWep5ztW5kLUoR3KM9Us" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T18:13:19.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="cSUX6Gx5tciva8W6s2eG" version="22.0.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,7 +126,7 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="183LWa80iZeKEM7BdJao-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Forno 7&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="183LWa80iZeKEM7BdJao-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Forno 7&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="710" y="860" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
